@@ -1,6 +1,6 @@
-# Week Five Day One: More Sorting
+# Sorting Algorithms
 
-This is a repository where you can write your code for today. You can also take notes in here if you wish. Please submit (commit and push) your code at the end of class, but note that **your code will not be graded for correctness**. 
+For this assignment, you will be implementing two sorting algorithms: selection sort and insertion sort.
 
 <br />
 <br />

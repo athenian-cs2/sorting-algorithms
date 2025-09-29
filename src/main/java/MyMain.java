@@ -6,7 +6,11 @@ public class MyMain {
   // to sort our code
   // This algorithm returns the sorted array
   public static int[] selectionSort(int[] arr) {
-    // REPLACE THIS WITH YOUR CODE
+    // High-level description:
+    // -Find the smallest element in the array
+    // -Swap the element at index 0 with the smallest element
+    // -Repeat that process for index 1, 2, 3, etc.
+
     return arr;
   }
 
@@ -14,7 +18,10 @@ public class MyMain {
   // to sort our code
   // This algorithm returns the sorted array
   public static int[] insertionSort(int[] arr) {
-    // REPLACE THIS WITH YOUR CODE
+    // High-level description:
+    // -For each element in the array
+    // -While that element is out of order compared to its left neighbor, swap it with that neighbor
+    // -The result is that each element is "inserted" into its proper position!
     return arr;
   }
 
