@@ -33,9 +33,9 @@ public class MyMain {
         Arrays.toString(
             selectionSort(new int[] {12, 5, 23, 74, 15, 86, 2}))); // [2, 5, 12, 15, 23, 74, 86]
 
-    System.out.println("Selection Sort Tests");
+    System.out.println("Insertion Sort Tests");
     System.out.println(
-        Arrays.toString(selectionSort(new int[] {6, 1, 3, 8, 2, 9}))); // [1, 2, 3, 6, 8, 9]
+        Arrays.toString(insertionSort(new int[] {6, 1, 3, 8, 2, 9}))); // [1, 2, 3, 6, 8, 9]
     System.out.println(
         Arrays.toString(
             selectionSort(new int[] {12, 5, 23, 74, 15, 86, 2}))); // [2, 5, 12, 15, 23, 74, 86]
